@@ -1,0 +1,5 @@
+name='Sidharth';
+i=0
+for i in range(5):
+    print(name,"\n")
+    
